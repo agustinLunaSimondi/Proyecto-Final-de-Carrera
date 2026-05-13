@@ -215,8 +215,7 @@ output = interpreter.get_tensor(output_details[0]['index'])
 ## Autores
 
 - **Agustín Luna** 
-- **Simondi**
-- **Dávila**
+- **Manuel Dávila**
 
 Proyecto Final de Carrera — Bioingeniería  
 [agustinluna760@gmail.com](mailto:agustinluna760@gmail.com)
