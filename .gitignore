@@ -1,0 +1,47 @@
+# ──────────────────────────────────────────
+# Datasets completos (demasiado grandes)
+# ──────────────────────────────────────────
+Data-sets/
+photos/
+Dataset descargado para exportar/
+
+# ──────────────────────────────────────────
+# Documentos del informe (archivos pesados)
+# ──────────────────────────────────────────
+INFORME/
+Instrucciones Raspberry Pi/
+
+# ──────────────────────────────────────────
+# Carpetas originales (reemplazadas por la nueva estructura)
+# ──────────────────────────────────────────
+Codigos-Collab/
+
+# ──────────────────────────────────────────
+# Datos comprimidos
+*.npz
+
+# Artefactos de Python / Jupyter
+# ──────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# ──────────────────────────────────────────
+# Entornos virtuales
+# ──────────────────────────────────────────
+venv/
+env/
+.venv/
+.env
+
+# ──────────────────────────────────────────
+# Configuración local de herramientas
+# ──────────────────────────────────────────
+.claude/
+.DS_Store
+Thumbs.db
